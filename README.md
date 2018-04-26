@@ -3,7 +3,7 @@ Covalence
 ## Objective
 Practice using the fundamentals of jQuery that were explored in lecture.
 
-##Setup
+## Setup
 1. Create a new project folder and connect it to a GitHub repository. Initialize your project with a README with a brief description of the purpose of this assignment, along with the title "jQuery Drills".
 2. Create an index.html file and an app.js file and link the two together.
 3. Create a script tag in the index.html and link to the jQuery CDN.
